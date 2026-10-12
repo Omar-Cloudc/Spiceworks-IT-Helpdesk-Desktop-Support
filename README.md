@@ -1,5 +1,3 @@
-# Spiceworks-IT-Helpdesk-Desktop-Support
-A simulated enterprise help desk and desktop support project built using Spiceworks, featuring ticket lifecycles, closure checklists, and escalation workflows.
 # Spiceworks IT Help Desk & Desktop Support Project
 
 Hey there! Welcome to my desktop support project. I built and configured a simulated corporate help desk environment using Spiceworks to practice real-world IT support workflows, ticket lifecycles, and user escalations.
@@ -14,9 +12,12 @@ Hey there! Welcome to my desktop support project. I built and configured a simul
 Here is a look at some of the workflows and features I set up:
 
 ### 1. Spiceworks Ticket Closure Checklist
+![Ticket Closure Checklist](screenshots/ticket-closure-checklist.png)
+*Above: Following standard protocol to verify a resolved issue before closing the ticket.*
 
 ### 2. Database Read Access Escalation Process
-
+![Database Access Escalation](screenshots/database-access-escalation.png)
+*Above: Documenting the security sign-off and routing a high-permission request up to Tier-2 support.*
 
 ## Sample Tickets Handled
 * **Hardware:** Laptop screen flickering and cable reseating.
