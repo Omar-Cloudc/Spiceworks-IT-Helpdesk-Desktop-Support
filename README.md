@@ -12,11 +12,11 @@ Hey there! Welcome to my desktop support project. I built and configured a simul
 Here is a look at some of the workflows and features I set up:
 
 ### 1. Spiceworks Ticket Closure Checklist
-![Ticket Closure Checklist](screenshots/ticket-closure-checklist.png)
-*Above: Following standard protocol to verify a resolved issue before closing the ticket.*
+![Ticket Solved Reply](ticket-solved-reply.png)
+*Above: Following standard protocol to reply a resolved issue before closing the ticket.*
 
 ### 2. Database Read Access Escalation Process
-![Database Access Escalation](screenshots/database-access-escalation.png)
+![Ticket Escalation](ticket-escalation.png)
 *Above: Documenting the security sign-off and routing a high-permission request up to Tier-2 support.*
 
 ## Sample Tickets Handled
